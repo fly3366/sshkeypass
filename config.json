@@ -1,0 +1,11 @@
+{
+    "publicKeyPath": "~/.ssh/id_rsa.pub",
+    "target": [
+        {
+            "ip": "127.0.0.1",
+            "sshPort": 22,
+            "username": "root",
+            "password": "xxx"
+        }
+    ]
+}
